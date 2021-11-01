@@ -1,4 +1,4 @@
-### Hi there. I'm Lorenzo, born in Genoa in 1999. I graduated in Biomedical Engineering in October 2021, collaborating with IIT (Italian Institute of Technology) for my thesis, and i'm currently study Robotics Engineering at University of Genoa. I'm so excited to start this new robotics path and i'm looking forward to do exciting projects. Here my GitHub in which you could find some insteresting stuffs. Enjoy!
+### Hi there. I'm Lorenzo, born in Genoa in 1999. I graduated in Biomedical Engineering in October 2021, collaborating with IIT (Italian Institute of Technology) for my thesis, and i'm currently study Robotics Engineering at University of Genoa. I'm so excited to start this new robotics path and i'm looking forward to do exciting projects. Here my GitHub in which you could find some interesting stuffs. Enjoy!
 ### Instagram: @lorebenedetti_
 
 ### Email: lorebene@live.it
