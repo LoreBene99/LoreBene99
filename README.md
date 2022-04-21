@@ -5,8 +5,6 @@
 #### 🤖 I'm currently studying Robotics Engineering at University of Genoa. 
 #### ➡️ Here my GitHub in which you could find some interesting stuffs. Enjoy!
 
-
-
 ### If you need, contact me here: 
 #### 📱 Instagram: @lorebenedetti_
 #### 📧 Email: lorebene@live.it
