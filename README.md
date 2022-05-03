@@ -9,9 +9,11 @@
 #### 🤖 I'm currently studying Robotics Engineering at University of Genoa. 
 #### ➡️ Here my GitHub in which you could find some interesting stuff. Enjoy!
 
-### If you need, contact me here: 
-#### 📱 Instagram: @lorebenedetti_
+# Connect with me:
+#### 📱 Instagram: https://www.instagram.com/lorebenedetti_/
+#### 📱 Facebook: https://www.facebook.com/lorenzo.benedetti.121/
 #### 📧 Email: lorebene@live.it
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreBene99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
