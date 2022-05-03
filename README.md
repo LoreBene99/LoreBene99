@@ -1,4 +1,6 @@
-#### 👋 Hi there. I'm Lorenzo, born in Genoa in 1999.
+
+
+# 👋 Hi there. I'm Lorenzo, born in Genoa in 1999 <img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=200>
 #### ❤️ I love music, games and robotics!
 #### 🎓 I graduated in Biomedical Engineering in October 2021.
 #### 👨‍💻 I have collaborated with IIT (Italian Institute of Technology) for my bachelor thesis. 
