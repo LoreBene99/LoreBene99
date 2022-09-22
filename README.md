@@ -13,7 +13,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreBene99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreBene99&theme=cobalt)
 
+# Programming Languages
+
+#### These are the main programming languages I have dealt with over the years:
+
+<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="44" src="https://img.icons8.com/color/452/c-programming.png"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> <img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_pddl_plan_icon_130275.png">
+
+
 # 📫 Connect with me:
+
+
+#### Here are the main contacts through which you can reach me!
     
    <a href="https://it.linkedin.com">
    <a href="https://www.linkedin.com/in/lorenzo-benedetti-1b1114228/">
