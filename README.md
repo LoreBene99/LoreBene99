@@ -10,7 +10,7 @@
 #### ➡️ Here my GitHub in which you could find some interesting stuff. Enjoy!
 
 # ⚡ Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreBene99&show_icons=true&theme=radical)
 
 # 🖥️ Programming Languages and Tools:
 
