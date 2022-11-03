@@ -1,12 +1,12 @@
 
-<img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=250>
+<img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=200> <img src="https://media.giphy.com/media/VWJFiiqhF6y81Mi65d/giphy.gif" height=200> <img src="https://media.giphy.com/media/cmynLaTS96DsFxANaH/giphy.gif" height=200> <img src="https://media.giphy.com/media/5I7xML0oZ7DMrAXCtu/giphy.gif" height=200> 
 
 # 👋 Hi there. I'm Lorenzo! 
 #### 🏠 I am from Genoa-Italy.
 #### ❤️ I love music, games and robotics!
 #### 🎓 I graduated in Biomedical Engineering in October 2021.
-#### 👨‍💻 I have collaborated with IIT (Italian Institute of Technology) for my bachelor thesis. 
-#### 🤖 I'm currently studying Robotics Engineering at University of Genoa. 
+#### 👨‍💻 I have collaborated with IIT (Italian Institute of Technology) for my Bachelor Thesis. 
+#### 🤖 I'm currently studying Robotics Engineering at University of Genova. 
 #### ➡️ Here my GitHub in which you could find some interesting stuff. Enjoy!
 
 # 🖥️ Programming Languages and Tools:
