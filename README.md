@@ -20,25 +20,25 @@
 
 
 #### Here are the main contacts through which you can reach me!
-    
-   <a href="https://it.linkedin.com">
+   </a>
    <a href="https://www.linkedin.com/in/lorenzo-benedetti-1b1114228/">
-
    <img align="left" alt="Lorenzo's Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-
    </a>
 
-   <a href="lorebene@live.it">
+   </a>
    <a href="mailto:lorebene@live.it">
-
-  <img align="left" alt="Lorenzo's Email Address" width="40px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
-
-  </a>
-
-  <a href="https://www.instagram.com/lorebenedetti_/">
-  <img align="left" alt="Lorenzo's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-
-  </a>  
+   <img align="left" alt="Lorenzo's Email Address" width="40px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
+   </a>
+   
+   </a>
+   <a href="https://www.instagram.com/lorebenedetti_/">
+   <img align="left" alt="Lorenzo's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+   </a>
+    
+   </a>
+   <a href="https://t.me/LoreBene99">
+   <img align="left" alt="Lorenzo's Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+   </a>
   
 <!--
 **LoreBene99/LoreBene99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
