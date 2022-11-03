@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=200> <img src="https://media.giphy.com/media/VWJFiiqhF6y81Mi65d/giphy.gif" height=200> <img src="https://media.giphy.com/media/cmynLaTS96DsFxANaH/giphy.gif" height=200> <img src="https://media.giphy.com/media/5I7xML0oZ7DMrAXCtu/giphy.gif" height=200> 
+<img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=160> <img src="https://media.giphy.com/media/VWJFiiqhF6y81Mi65d/giphy.gif" height=160> <img src="https://media.giphy.com/media/cmynLaTS96DsFxANaH/giphy.gif" height=160> <img src="https://media.giphy.com/media/5I7xML0oZ7DMrAXCtu/giphy.gif" height=160> 
 
 # 👋 Hi there. I'm Lorenzo! 
 #### 🏠 I am from Genoa-Italy.
