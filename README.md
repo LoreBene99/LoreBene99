@@ -1,7 +1,7 @@
 
+<img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=250>
 
-# 👋 Hi there. I'm Lorenzo! <img src="https://media.giphy.com/media/GQlUu7wLzZ7iGNhzQJ/giphy.gif" height=200>
-
+# 👋 Hi there. I'm Lorenzo! 
 #### 🏠 I am from Genoa-Italy.
 #### ❤️ I love music, games and robotics!
 #### 🎓 I graduated in Biomedical Engineering in October 2021.
