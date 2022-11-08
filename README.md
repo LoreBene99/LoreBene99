@@ -9,13 +9,25 @@
 #### 🤖 I'm currently studying Robotics Engineering at University of Genova. 
 #### ➡️ Here my GitHub in which you could find some interesting stuff. Enjoy!
 
-# 🖥️ Programming Languages and Tools:
+<br />
 
-#### These are the main programming languages and tools I have dealt with over the years:
+# ℹ️​ 🖥️ Info : 
+
+- ### Some information on the percentage of programming languages used in my projects :
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreBene99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
+
+- #### These are the main programming languages and tools I have dealt with over the years :
 
 <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="45" src="https://img.icons8.com/color/452/c-programming.png"> <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> <img height="45" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> <img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_pddl_plan_icon_130275.png"> <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> <img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"> <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
 
-# 📫 Connect with me:
+<br />
+
+
+# 📫 Connect with me :
 
 #### Here are the main contacts through which you can reach me!
    </a>
