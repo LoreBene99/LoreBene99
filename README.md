@@ -6,7 +6,7 @@
 #### ❤️ I love music, games and robotics!
 #### 🎓 I graduated in Biomedical Engineering in October 2021.
 #### 👨‍💻 I have collaborated with IIT (Italian Institute of Technology) for my Bachelor Thesis. 
-#### 🤖 I'm currently studying Robotics Engineering at University of Genova. 
+#### 🤖 I have completed a Master's Degree in Robotics Engineering at the University of Genova.
 #### ➡️ Here my GitHub in which you could find some interesting stuff. Enjoy!
 
 <br />
