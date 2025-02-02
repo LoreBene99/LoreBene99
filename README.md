@@ -35,10 +35,6 @@
    <img align="left" alt="Lorenzo's Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
    </a>
 
-   <a href="mailto:lorebene@live.it">
-   <img align="left" alt="Lorenzo's Email Address" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Email_icon.png/600px-Email_icon.png" />
-   </a>
-
    </a>
    <a href="https://www.instagram.com/lorebenedetti_/">
    <img align="left" alt="Lorenzo's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
