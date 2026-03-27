@@ -1,74 +1,52 @@
 # Lorenzo Benedetti
 
-### Software Engineer - Robotics, UAV Systems, Distributed Architectures
+Software Engineer focused on **robotics, UAV systems, distributed architectures, and edge/cloud integration**.
 
-Genoa, Italy
+Based in Genoa, Italy.
 
----
+## What I work on
 
-## About
-
-I design and build **distributed systems for real-world robotics and industrial environments**.
-
-My work focuses on integrating:
-- autonomous systems (UAV/UGV)
-- industrial data sources (SCADA/PLC, IoT)
-- edge and cloud infrastructures
-
-with the goal of delivering **reliable, scalable and deployable solutions**.
-
----
-
-## Current Focus
-
-- Industrial **Digital Twin platforms**
-- **UAV-based monitoring systems**
-- **Edge computing & real-time data pipelines**
-- **Multi-agent coordination and mission management**
-
----
+- UAV and UGV software systems
+- Industrial digital twin platforms
+- Edge computing and real-time data pipelines
+- Multi-agent coordination and mission management
+- Integration with SCADA/PLC, IoT, and heterogeneous industrial environments
 
 ## Tech Stack
 
 **Languages**  
-Python, C++, C, Bash  
+Python, C++, C, Bash
 
 **Robotics**  
-ROS, ROS2, Gazebo  
+ROS, ROS2, Gazebo
 
-**Backend & Systems**  
-Distributed systems, REST APIs, WebSocket, Spring Boot  
+**Backend / Systems**  
+Distributed systems, REST APIs, WebSocket, Spring Boot
 
 **Networking**  
-MQTT, TCP/IP  
+MQTT, TCP/IP
 
 **Infrastructure**  
-Docker, Linux, Git  
+Docker, Linux, Git
 
----
-
-## Selected Work
+## Featured Projects
 
 ### Digital Twin Platform
-Design of an industrial monitoring system integrating UAVs, IoT sensors, and SCADA data into a unified real-time environment.  
-Focus on architecture, edge processing, and system scalability.
+Industrial monitoring system integrating UAVs, IoT sensors, and SCADA data into a unified real-time environment.  
+Focus: system architecture, edge processing, scalability.
 
 ### UAV Fleet Management System
-Development of a Ground Control Station enabling multi-drone coordination, telemetry handling, and operational safety mechanisms.
+Ground Control Station for multi-drone coordination, telemetry handling, and operational safety mechanisms.
 
 ### Edge Data Platform
-Contribution to a distributed data platform for UAV operations across heterogeneous industrial scenarios.
-
----
+Distributed data platform supporting UAV operations across heterogeneous industrial scenarios.
 
 ## Background
 
-- MSc in Robotics Engineering - University of Genoa  
-- BSc in Biomedical Engineering - University of Genoa  
+- MSc in Robotics Engineering — University of Genoa
+- BSc in Biomedical Engineering — University of Genoa
 - Research collaboration with IIT (Italian Institute of Technology)
-
----
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/lorenzo-benedetti-1b1114228/
+- LinkedIn: [lorenzo-benedetti-1b1114228](https://www.linkedin.com/in/lorenzo-benedetti-1b1114228/)
