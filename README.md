@@ -10,7 +10,7 @@ Based in Genoa, Italy.
 - Industrial digital twin platforms
 - Edge computing and real-time data pipelines
 - Multi-agent coordination and mission management
-- Integration with SCADA/PLC, IoT, and heterogeneous industrial environments
+- Integration with IoT and heterogeneous industrial environments
 
 ## Tech Stack
 
@@ -21,25 +21,13 @@ Python, C++, C, Bash
 ROS, ROS2, Gazebo
 
 **Backend / Systems**  
-Distributed systems, REST APIs, WebSocket, Spring Boot
+Distributed systems, REST APIs, WebSocket
 
 **Networking**  
 MQTT, TCP/IP
 
 **Infrastructure**  
 Docker, Linux, Git
-
-## Featured Projects
-
-### Digital Twin Platform
-Industrial monitoring system integrating UAVs, IoT sensors, and SCADA data into a unified real-time environment.  
-Focus: system architecture, edge processing, scalability.
-
-### UAV Fleet Management System
-Ground Control Station for multi-drone coordination, telemetry handling, and operational safety mechanisms.
-
-### Edge Data Platform
-Distributed data platform supporting UAV operations across heterogeneous industrial scenarios.
 
 ## Background
 
