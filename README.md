@@ -31,8 +31,8 @@ Docker, Linux, Git
 
 ## Background
 
-- MSc in Robotics Engineering — University of Genoa
-- BSc in Biomedical Engineering — University of Genoa
+- MSc in Robotics Engineering - University of Genoa
+- BSc in Biomedical Engineering - University of Genoa
 - Research collaboration with IIT (Italian Institute of Technology)
 
 ## Contact
